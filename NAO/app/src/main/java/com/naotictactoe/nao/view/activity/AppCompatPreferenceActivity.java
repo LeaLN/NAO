@@ -1,4 +1,4 @@
-package com.naotictactoe.nao;
+package com.naotictactoe.nao.view.activity;
 
 import android.content.res.Configuration;
 import android.os.Bundle;

@@ -1,7 +1,9 @@
-package com.naotictactoe.nao;
+package com.naotictactoe.nao.view.activity;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+
+import com.naotictactoe.nao.R;
 
 import butterknife.ButterKnife;
 
